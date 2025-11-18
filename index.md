@@ -5,9 +5,7 @@ layout: default
 
 # The MegaLands project
 
-{% include figure.html img="armand-khoury-mVfo_gTcwoM-unsplash.jpg" alt="Twisting network visualization image" %}
-
-{% include button.html text="Workshop Video on YouTube (March 2021)" link="https://youtu.be/yTJ6x6zEQmI" color="success" centered=true %}
+{% include figure.html img="pedra_arca.jpg" alt="MegaLands" %}
 
 NW Iberia offers an excellent background to trace the footprints of Neolithic life through the study of their monumental landscapes. Despite inherent limitations resulting from the paucity of bone remains due to the prevailing soil acidic conditions, and the historical plundering of archaeological artefacts, the density of high-resolution environmental archives, such as peatlands, in areas with remarkable megalithic sites, offers the ideal conditions to explore human-environment interactions of Neolithic
 societies.
