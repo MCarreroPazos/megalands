@@ -3,22 +3,21 @@ title: Home
 layout: default
 ---
 
-# Get Started with OpenRefine: Explore, Clean, and Transform your Data!
+# The MegaLands project
 
 {% include figure.html img="armand-khoury-mVfo_gTcwoM-unsplash.jpg" alt="Twisting network visualization image" %}
 
 {% include button.html text="Workshop Video on YouTube (March 2021)" link="https://youtu.be/yTJ6x6zEQmI" color="success" centered=true %}
 
-Before analysis comes the messy work of evaluating, cleaning, and transforming data.
-This hands on workshop will introduce a free power tool to get the job done: {% include icon.html icon="gem" %} [OpenRefine](http://openrefine.org/index.html){:target='_blank' rel='noopener'}. 
-We will install Refine, create a project, and get oriented to the many features for exploring and transforming tabular data. 
+NW Iberia offers an excellent background to trace the footprints of Neolithic life through the study of their monumental landscapes. Despite inherent limitations resulting from the paucity of bone remains due to the prevailing soil acidic conditions, and the historical plundering of archaeological artefacts, the density of high-resolution environmental archives, such as peatlands, in areas with remarkable megalithic sites, offers the ideal conditions to explore human-environment interactions of Neolithic
+societies.
+MegaLands aims to give a geographically extensive view of megalithic landscape across NW Iberia, focusing on five different regions particularly selected to account for geographical, altitudinal and geomorphological diversity. 
 
-Intended for students, faculty, and staff with an interest in cleaning, transforming, and working with diverse data sources. 
-No experience necessary.
+By integrating detection of megalithic sites with Artificial Intelligence, field prospection, surface Ground-Penetrating-Radar (GPR) and archaeological excavation, on-site and off-site geoarchaeological and palaeoenvironmental approaches, and new chronometric models, MegaLands aims to uncover how megalithic landscapes influenced and were influenced by the ecological and cultural dynamics of the Neolithic societies. This research will offer groundbreaking insights into the environmental context and the spatial organization of megalithic landscapes in NW Iberia, shedding fresh insights into the daily lives and monumental legacies of Neolithic communities in Atlantic Europe and beyond.
 
 {% include toc.html %}
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [CISPAC](https://cispac.gal/), {{ site.pub_year }}.
 
 ------
 

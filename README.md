@@ -1,18 +1,11 @@
-# openrefine-b
+# MEGALITHIC LANDSCAPES: EXPLORING HUMANENVIRONMENTAL DRIVERS OF NEOLITHIC SOCIETIES IN NORTHWESTERN IBERIA (5TH–2ND MILLENNIUM BCE) (MegaLands)
 
-> Refine! workshop outline website
+# Miguel Carrero Pazos (USC-CISPAC) & Noemí Silva Sánchez (USC-CRETUS)
 
-<https://evanwill.github.io/openrefine-b>
+> The MegaLands Project webpage
 
-## Getting Started with OpenRefine: Explore, Clean, and Transform your Data!
+<https://mcarreropazos.github.io/megalands/>
 
-Before analysis comes the messy work of evaluating, cleaning, and transforming data.
-This hands on workshop will introduce a free power tool to get the job done: [OpenRefine](http://openrefine.org/index.html). 
-We will install Refine, create a project, and get oriented to the many features for exploring and transforming tabular data. 
-
-Intended for students, faculty, and staff with an interest in cleaning, transforming, and working with diverse data sources. 
-No experience necessary.
-
-## Image credits
-
-- web network image: Armand Khoury, https://unsplash.com/photos/mVfo_gTcwoM
+# Credits
+- PID2024-156264NA-I00 funded by MICIU / AEI / 10.13039/501100011033 / FEDER, EU.
+- Website created from the “workshop-template-b” template by evanwill, built using Jekyll on GitHub Pages.
