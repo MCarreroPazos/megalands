@@ -18,5 +18,3 @@ By integrating detection of megalithic sites with Artificial Intelligence, field
 Hosted by [CISPAC](https://cispac.gal/), {{ site.pub_year }}.
 
 ------
-
-{% include template/credits.html %}
