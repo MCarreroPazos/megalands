@@ -9,7 +9,7 @@ title: The MegaLands project
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: gem
+title-icon:
 # description, keywords, and image for meta tags
 description: "The webpage of the project Megalands"
 keywords: "Prehistory, Environmental Archaeology, Megalithic sites"
