@@ -15,7 +15,7 @@ nav: Team
 
 ## Working team members
 - <span class="term">WT 1:</span> [Timothy Kinnaird](https://www.st-andrews.ac.uk/earth-sciences/people/tk17/) University of Saint Andrews
-- <span class="term">WT 2:</span> [Timothy Mighall] (https://www.abdn.ac.uk/people/t.mighall) University of Aberdeen
+- <span class="term">WT 2:</span> [Timothy Mighall](https://www.abdn.ac.uk/people/t.mighall) University of Aberdeen
 - <span class="term">WT 3:</span> [Alia Vázquez Martínez](https://orcid.org/0000-0003-1571-2759) Independent researcher
 - <span class="term">WT 4:</span> Hired FPI- USC
 
