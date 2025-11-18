@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: Home
+title: Index
+layout: Index
 ---
 
 # The MegaLands project
