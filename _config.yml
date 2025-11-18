@@ -10,27 +10,27 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Refine!
+title: The MegaLands project
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: gem
 # description, keywords, and image for meta tags
-description: "Introducing OpenRefine, a power tool for the messy work of evaluating, cleaning, and transforming data."
-keywords: "OpenRefine, academic workshop, data transformation"
-featured-image: "/images/armand-khoury-mVfo_gTcwoM-unsplash.jpg"
+description: "The webpage of the project Megalands"
+keywords: "Prehistory, Environmental Archaeology, Megalithic sites"
+featured-image: "/images/pedra_arca.jpg"
 # add search box to footer? true/false
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: Miguel Carrero
 # your github username for link [optional]
-github_username: evanwill
+github_username: MCarrero Pazos
 # year or date published
-pub_year: 2021
+pub_year: 2025
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/openrefine-b
+source-code: https://github.com/MCarreroPazos/megalands
 
 ##########
 # URL VARIABLES [optional!]
@@ -39,11 +39,11 @@ source-code: https://github.com/evanwill/openrefine-b
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url: https://evanwill.github.io
+url: https://github.com/MCarreroPazos/megalands
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /openrefine-b
+baseurl: /megalands
 
 
 ##########
