@@ -19,7 +19,7 @@ search: true
 
 # author settings for cc-by, appears in the footer and credits
 author: Miguel Carrero
-# your github username for link [optional]
+# your github username for link [https://github.com/MCarreroPazos]
 github_username: MCarrero Pazos
 # year or date published
 pub_year: 2025
@@ -31,10 +31,10 @@ source-code: https://github.com/MCarreroPazos/megalands
 #
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
 #
-# use url for the domain, e.g. https://evanwill.github.io
+# use url for the domain, e.g. https://mcarreropazos.github.io
 # on gh-pages follow the pattern: https://username.github.io
 url: https://github.com/MCarreroPazos/megalands
-# use baseurl to add subsection of the domain, e.g. /workshop-template-b
+# use baseurl to add subsection of the domain, e.g. /megalands
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
 baseurl: /megalands
