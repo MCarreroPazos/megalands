@@ -10,7 +10,7 @@ nav: MegaLands
 MegaLands is a Knowledge-Generation Project, Non-Oriented Modality (Type A), led by two Principal Investigators and supported by a multidisciplinary team. It is aimed at generating and significantly advancing the scientific knowledge and high-quality, well-validated research.
 
 {% capture text %}
-The Project PIs are [Miguel Carrero] (https://orcid.org/0000-0001-9203-9954){:target='_blank' rel='noopener'}and Noemí Silva (https://orcid.org/0000-0001-6355-7285){:target='_blank' rel='noopener'}
+The Project PIs are [Miguel Carrero](https://orcid.org/0000-0001-9203-9954){:target='_blank' rel='noopener'}and Noemí Silva(https://orcid.org/0000-0001-6355-7285){:target='_blank' rel='noopener'}
 
 MegaLands aims to increase the generation of high-quality scientific knowledge, fostering a deeper understanding of megalithic societies in NW Iberia, through innovative multidisciplinary approaches that address critical gaps in spatial, chronological, and palaeoenvironmental data. 
 
