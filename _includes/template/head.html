@@ -1,20 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<meta property="og:site_name" content="{{ site.title | escape }}" />
-<meta property="og:url" content="{{ page.url | absolute_url }}" />
-<meta property="og:locale" content="en_US" />
-<!-- schema.org JSON-LD -->
-<script type="application/ld+json">{ "@context":"http://schema.org", "@type":"WebPage", "headline":"{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}", "author": { "@type":"Person", "name":"{{ site.author | escape }}"}, "description":"{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}", {% if site.featured-image %}"image": "{{ site.featured-image | absolute_url }}",{% endif %} "url":"{{ page.url | absolute_url }}" }</script>
-
-{% if layout.gallery == true or page.gallery == true %}<link rel="stylesheet" href="{{ '/assets/lib/spotlight.min.css' | relative_url }}">{% endif %}
-<link rel="stylesheet" href="{{ '/assets/lib/bootstrap.min.css' | relative_url }}" type="text/css">
-<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-
-{% comment %} 
-  meta tags and analytics are added during production build ONLY 
-{%- endcomment -%}
-{% if site.noindex == true or page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex" />{% endif %}
 {% if jekyll.environment == "production" %}
 {% include template/analytics.html %}
 {%- endif -%}

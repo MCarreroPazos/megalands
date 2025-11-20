@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100">
-  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
   {% include template/head.html %}
-  </head>
+</head>
 
-  <body class="d-flex flex-column h-100">
-    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
-    <header>
+<body class="d-flex flex-column h-100">
+  <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+  <header>
     {% include template/top-nav.html %}
-    </header>
+  </header>
 
-    <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
-      <div class="container my-4">
+  <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
+    {% if page.full_width_hero %}
+    {% include hero.html %}
+    {% endif %}
+    <div class="container my-4">
       {{ content }}
-      </div>
-    </main>
+    </div>
+  </main>
 
-    {% include template/footer.html %}
-    {% include template/foot.html %}
+  {% include template/footer.html %}
+  {% include template/foot.html %}
 
-  </body>
+</body>
 
 </html>
