@@ -4,4 +4,8 @@
 {% if jekyll.environment == "production" %}
 {% include template/analytics.html %}
 {%- endif -%}
+{% if layout.gallery == true or page.gallery == true %}
+<link rel="stylesheet" href="{{ '/assets/lib/spotlight.min.css' | relative_url }}">{% endif %}
+<link rel="stylesheet" href="{{ '/assets/lib/bootstrap.min.css' | relative_url }}" type="text/css">
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 <!-- Last build date: {{ site.time | date: "%Y-%m-%d" }} -->
