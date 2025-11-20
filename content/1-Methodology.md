@@ -19,7 +19,7 @@ Explicitly transdisciplinary, integrating archaeological, palaeoenvironmental, a
 
 <span class="term">Penausén-Idarga Sierras:</span> The Necropolis of Penausén-Calabazos is composed by a total of eleven monuments (Rodríguez del Cueto, Carrero Pazos 2021).
 {% endcapture %}
-{% include card.html text=Working regions %}
+{% include card.html text=formats header="Working regions" %}
 
 {% include figure.html img="Study_areasMegaLands.jpeg" alt="Study areas with selected sites for the MegaLands project." %}
 

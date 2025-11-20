@@ -1,6 +1,6 @@
 ---
 title: Index
-layout: Index
+layout: default
 ---
 
 # The MegaLands project

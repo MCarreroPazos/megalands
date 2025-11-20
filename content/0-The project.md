@@ -34,7 +34,7 @@ MegaLands arises from the starting hypotheses that the spatial distribution of N
 
 <span class="term">d: Data integration</span> spatial models of megalithic monuments published up-to-date focus on geographical trends, but no effort has been made to integrate palaeoenvironmental data.
 {% endcapture %}
-{% include card.html text= Starting hypothesis%}
+{% include card.html text=formats header="Starting hypothesis" %}
 
 MegaLands builds on the above-described state of the art by integrating spatial, environmental and new chronometric data, to provide a revised understanding of the NW Iberian megalithic complex.
 

@@ -5,7 +5,7 @@ nav: Team
 
 ## Project PI's
 - <span class="term">PI 1:</span> [Miguel Carrero-Pazos](https://orcid.org/0000-0001-9203-9954) USC/CISPAC
-- <span class="term">PI 2:</span> [Noemí Silva-Sánchez] (https://orcid.org/0000-0001-6355-7285) USC/CRETUS
+- <span class="term">PI 2:</span> [Noemí Silva-Sánchez](https://orcid.org/0000-0001-6355-7285) USC/CRETUS
 
 ## Research team members
 - <span class="term">RT 1:</span> [María José Rodríguez Malmierca](https://www.cesga.es/maria-jose-rodriguez-malmierca/) CESGA
