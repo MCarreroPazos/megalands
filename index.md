@@ -3,7 +3,12 @@ title: The MegaLands project
 layout: default
 ---
 
+<div class="main-title" markdown="1">
+
 ## MEGALITHIC LANDSCAPES: EXPLORING HUMAN-ENVIRONMENTAL DRIVERS OF NEOLITHIC SOCIETIES IN NORTHWESTERN IBERIA (5TH–2ND MILLENNIUM BCE) (MegaLands)
+
+</div>
+
 
 {% include figure.html img="pedra_arca.jpg" alt="MegaLands" %}
 
