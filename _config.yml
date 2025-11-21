@@ -18,9 +18,8 @@ featured-image: "/images/pedra_arca.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Miguel Carrero
-# your github username for link [https://github.com/MCarreroPazos]
-github_username: MCarreroPazos
+author: Miguel Carrero & Noemí Silva
+
 # year or date published
 pub_year: 2025
 # location of code, the full url to your github repository
