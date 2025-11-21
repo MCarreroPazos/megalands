@@ -11,9 +11,8 @@ MegaLands is a Knowledge-Generation Project, Non-Oriented Modality (Type A), led
 
 MegaLands aims to increase the generation of high-quality scientific knowledge, fostering a deeper understanding of megalithic societies in NW Iberia, through innovative multidisciplinary approaches that address critical gaps in spatial, chronological, and palaeoenvironmental data. 
 
-The General Objective (GO) of the project is:
+## Objectives
 
-{% capture usecase %}
 ### General Objective
 
 To increase our understanding of the megalithic societies in Northwestern Iberia through a holistic approach, considering both their social and environmental dimensions.
@@ -25,8 +24,7 @@ To increase our understanding of the megalithic societies in Northwestern Iberia
 #### SO3. To reconstruct the environmental conditions and subsistence practices (agriculture, livestock, burning, etc.) of megalithic landscapes through a combination of a multiproxy (geochemistry and palynology) and using a multiscale (on-site and off-site) approach.
 
 #### SO4. To generate comparative models of the distribution of megalithic tombs in the Iberian Northwest, identifying regional location patterns and assessing their correspondence with environmental and geographical factors.
-{% endcapture %}
-{% include card.html text=usecase header="Objectives" %}
+
 
 ## Starting hypothesis
 MegaLands arises from the starting hypothesis that the spatial distribution of NW Iberian megalithic monuments reflects deliberate landscape use and settlement strategies influenced by environmental and ecological factors, including periods of environmental change.
