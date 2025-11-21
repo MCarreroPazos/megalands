@@ -17,10 +17,8 @@
         site.github_username %}<a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a>{% else %}{{
         site.author }}{% endif %}
         {% if site.funding %}<br><small class="text-muted">{{ site.funding }}</small>{% endif %}
-        <br><small class="text-muted">Forked from <a href="https://evanwill.github.io/openrefine-b/">evanwill
-            openrefine-b template</a></small>
       </div>
-      <div class="col-md">
+      <div class="col-md text-end">
         {% if site.search == true %}
         <script>
           function site_search() {
@@ -39,6 +37,9 @@
           </div>
         </form>
         {% endif %}
+        <div class="clearfix"></div>
+        <small class="text-muted">Forked from <a href="https://evanwill.github.io/openrefine-b/">evanwill openrefine-b
+            template</a></small>
       </div>
     </div>
   </div>
