@@ -1,9 +1,7 @@
 ---
-title: Outreach and press releases
-nav: Outreach
+title: Outreach Activities
+nav: Outreach Activities
 ---
-
-## Outreach Activities
 
 This section will feature:
 - Public talks and presentations
