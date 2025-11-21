@@ -19,5 +19,5 @@ nav: Team
 - <span class="term">WT 3:</span> [Alia Vázquez Martínez](https://orcid.org/0000-0003-1571-2759) Independent researcher
 - <span class="term">WT 4:</span> Hired FPI- USC
 
-{% include alert.html text="The FPI contract is currently under processment." color="success" %}
+{% include alert.html text="The FPI contract is currently being processed." color="success" %}
 

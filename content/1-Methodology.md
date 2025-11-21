@@ -37,7 +37,7 @@ Explicitly transdisciplinary, integrating archaeological, palaeoenvironmental, a
 
 ### WP3: Peatland Off-site palaeoenvironmental analyses (SO3)
 - T3.1. Off-site peat sampling: new palaeoenvironmental records in Serra da Capelada and Leboreiro.
-- T3.2. Radiocarbon dating and age-depth modelling to stablish peat sequences chronologies at Serra da Capelada and Leboreiro.
+- T3.2. Radiocarbon dating and age-depth modelling to establish peat sequences chronologies at Serra da Capelada and Leboreiro.
 - T3.3. Geochemical Analysis: to study climatic and anthropogenic forcings on the Earth system derived from processes such as soil erosion or minerometallurgical activity at Serra da Capelada and Leboreiro.
 - T3.4. Palynological Analysis: to study climatic and anthropogenic forcings on vegetation, as well as subsistence practices and fire history at the near vicinities of the megalithic monuments (few Km) at Serra da Capelada and Leboreiro.
 
@@ -49,7 +49,7 @@ Explicitly transdisciplinary, integrating archaeological, palaeoenvironmental, a
 ### WP5: Dissemination and transfer actions (see 4.3., 4.4., 4.5.)
 - T5.1. Design and launch the website of the project.
 - T5.2. GIS web app: Design of a web-app using CESGA’s Peneira framework, to integrate the archaeological sites studied in the project and the peatbogs analysed.
-- T.5.3. Working meetings: online at the beginning and during the Project, in presence at final stages, as a closing seminar for the project.
+- T5.3. Working meetings: online at the beginning and during the Project, in presence at final stages, as a closing seminar for the project.
 - T5.4. Informative talks for the general public at the selected megalithic sites. General talks carried out at the 5 selected regions to trigger public attention.
 - T5.5. Project reports and scientific papers drafting.
 - T5.6. Preparation and publication of results at national and international conferences.

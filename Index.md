@@ -23,7 +23,7 @@ The General Objective (GO) of the project is:
 {% include card.html text=usecase header="Objectives" %}
 
 ## Starting hypothesis
-MegaLands arises from the starting hypotheses that the spatial distribution of NW Iberian megalithic monuments reflects deliberate landscape use and settlement strategies influenced by environmental and ecological factors, including periods of environmental change.
+MegaLands arises from the starting hypothesis that the spatial distribution of NW Iberian megalithic monuments reflects deliberate landscape use and settlement strategies influenced by environmental and ecological factors, including periods of environmental change.
 
 {% capture formats %}
 <span class="term">a: Data quality and cataloguing</span> existing archaeological records require updating to address inaccuracies, duplication, and inconsistent documentation.
