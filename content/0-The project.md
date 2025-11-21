@@ -3,7 +3,7 @@ title: The MegaLands project
 nav: MegaLands
 ---
 
-### MEGALITHIC LANDSCAPES: EXPLORING HUMANENVIRONMENTAL DRIVERS OF NEOLITHIC SOCIETIES IN NORTHWESTERN IBERIA (5TH–2ND MILLENNIUM BCE) (MegaLands)
+## MEGALITHIC LANDSCAPES: EXPLORING HUMAN-ENVIRONMENTAL DRIVERS OF NEOLITHIC SOCIETIES IN NORTHWESTERN IBERIA (5TH–2ND MILLENNIUM BCE) (MegaLands)
 
 {% include figure.html img="pedra_arca.jpg" alt="MegaLands" %}
 
@@ -22,7 +22,7 @@ The General Objective (GO) of the project is:
 {% endcapture %}
 {% include card.html text=usecase header="Objectives" %}
 
-# Starting hypothesis
+## Starting hypothesis
 MegaLands arises from the starting hypotheses that the spatial distribution of NW Iberian megalithic monuments reflects deliberate landscape use and settlement strategies influenced by environmental and ecological factors, including periods of environmental change.
 
 {% capture formats %}
