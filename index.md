@@ -18,8 +18,6 @@ MegaLands aims to increase the generation of high-quality scientific knowledge, 
 
 ## Objectives
 
-### General Objective
-
 To increase our understanding of the megalithic societies in Northwestern Iberia through a holistic approach, considering both their social and environmental dimensions.
 
 #### SO1. To refine available spatial data of NW Iberian megaliths through artificial intelligence.
