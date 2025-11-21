@@ -14,10 +14,16 @@ MegaLands aims to increase the generation of high-quality scientific knowledge, 
 The General Objective (GO) of the project is:
 
 {% capture usecase %}
-<span class="term">General Objective</span> - To increase our understanding of the megalithic societies in Northwestern Iberia through a holistic approach, considering both their social and environmental dimensions.
+### General Objective
+
+To increase our understanding of the megalithic societies in Northwestern Iberia through a holistic approach, considering both their social and environmental dimensions.
+
 #### SO1. To refine available spatial data of NW Iberian megaliths through artificial intelligence.
+
 #### SO2. To contribute to fill the available gaps in the chronological knowledge about the megalithic phenomenon in NW Iberia, providing new detailed, more refined chronometric datasets in comparative regions.
+
 #### SO3. To reconstruct the environmental conditions and subsistence practices (agriculture, livestock, burning, etc.) of megalithic landscapes through a combination of a multiproxy (geochemistry and palynology) and using a multiscale (on-site and off-site) approach.
+
 #### SO4. To generate comparative models of the distribution of megalithic tombs in the Iberian Northwest, identifying regional location patterns and assessing their correspondence with environmental and geographical factors.
 {% endcapture %}
 {% include card.html text=usecase header="Objectives" %}
