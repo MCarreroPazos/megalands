@@ -32,16 +32,13 @@ To increase our understanding of the megalithic societies in Northwestern Iberia
 ## Starting hypothesis
 MegaLands arises from the starting hypothesis that the spatial distribution of NW Iberian megalithic monuments reflects deliberate landscape use and settlement strategies influenced by environmental and ecological factors, including periods of environmental change.
 
-{% capture formats %}
-<span class="term">a: Data quality and cataloguing</span> existing archaeological records require updating to address inaccuracies, duplication, and inconsistent documentation.
+**a: Data quality and cataloguing:** Existing archaeological records require updating to address inaccuracies, duplication, and inconsistent documentation.
 
-<span class="term">b: Chronological gaps</span> The 103 radiocarbon dates from 56 NW Iberian monuments are insufficient to establish a robust timeline, necessitating new dating programs.
+**b: Chronological gaps:** The 103 radiocarbon dates from 56 NW Iberian monuments are insufficient to establish a robust timeline, necessitating new dating programs.
 
-<span class="term">c: Palaeoenvironmental data representativity</span> most of available palaeoenvironmental information comes from the highlands, so increasing data availability in the lowlands will allow a better understanding of the megalithic phenomenon diversity within NW Iberia.
+**c: Palaeoenvironmental data representativity:** Most of available palaeoenvironmental information comes from the highlands, so increasing data availability in the lowlands will allow a better understanding of the megalithic phenomenon diversity within NW Iberia.
 
-<span class="term">d: Data integration</span> spatial models of megalithic monuments published up-to-date focus on geographical trends, but no effort has been made to integrate palaeoenvironmental data.
-{% endcapture %}
-{% include card.html text=formats header="Starting hypothesis" %}
+**d: Data integration:** Spatial models of megalithic monuments published up-to-date focus on geographical trends, but no effort has been made to integrate palaeoenvironmental data.
 
 MegaLands builds on the above-described state of the art by integrating spatial, environmental and new chronometric data, to provide a revised understanding of the NW Iberian megalithic complex.
 
