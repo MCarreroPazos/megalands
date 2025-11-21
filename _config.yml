@@ -18,13 +18,15 @@ featured-image: "/images/pedra_arca.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Miguel Carrero & Noemí Silva
+author: Miguel Carrero
 # your github username for link [https://github.com/MCarreroPazos]
 github_username: MCarreroPazos
 # year or date published
 pub_year: 2025
 # location of code, the full url to your github repository
 source-code: https://github.com/MCarreroPazos/megalands
+# Funding information
+funding: PID2024-156264NA-I00 funded by MICIU / AEI / 10.13039/501100011033 / FEDER, EU.
 
 ##########
 # URL VARIABLES [optional!]
